@@ -17,4 +17,6 @@
 //= require react
 //= require react_ujs
 //= require components
+//= require goldenlayout
+//= require gl_config
 //= require_tree .
