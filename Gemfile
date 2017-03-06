@@ -19,10 +19,11 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'react-rails'
 gem 'slim-rails'
-
+gem 'faker'
 
 group :development, :test do
   gem 'byebug', platform: :mri
+  gem 'awesome_print'
 end
 
 group :development do
